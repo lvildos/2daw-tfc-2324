@@ -60,7 +60,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **[GameRev](https://github.com/RafaelSilva27/GameRev)**: Silva Alcántara, Rafael
 * **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)**: Trujillo Álvarez, Carmen Belén
 * **[ForstAI](https://github.com/darkzpvp/forstAI)**: Valverde Olmedo, Víctor
-* **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)**: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
+* **[Manadadepan](https://github.com/ArkanMB/Manada_de_Pan)**: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **5 de abril de 2024**
